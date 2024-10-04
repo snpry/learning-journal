@@ -15,7 +15,7 @@ a little progress everyday ⬆️
 learning-journal/
 ├── programming/
 ├── ├── swequestions.md
-│   ├── designatedearningpath.md
+│   ├── designated_learningpath.md
 │   ├── shecodesschool.md
 |   ├── kaggleds.md
 |   ├── frombooks.md
