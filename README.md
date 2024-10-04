@@ -1,5 +1,7 @@
 # Learning Journal
 
+![Days of Coding](https://img.shields.io/badge/Days%20of%20Coding-30-orange) ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Progress](https://img.shields.io/badge/Progress-70%25-brightgreen)
+
 Welcome to my **Learning Journal📔**! This repository documents my journey of continuous learning across multiple subjects, focusing on tracking progress, overcoming challenges, and reflecting on growth.
 a little progress everyday ⬆️
 ## Goals 🎯
