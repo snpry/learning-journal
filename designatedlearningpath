@@ -1,0 +1,11 @@
+# designated learning path
+
+Welcome to my learning path section! These are notes and reflection from my Designated Learning Path provided by A2SV 
+Here are some topics I’m covering:
+
+- [Sorting Algorithms](sorting/sorting.md)
+- [Two Pointers](two_pointers/twopointers.md)
+- [sliding window](sliding_window/slidingwindow.md)  
+- [Prefix_Sum](prifix_sum.md)
+
+further notes can be foound under each sub-topic
